@@ -1,0 +1,11 @@
+Token ring algorithm to achieving mutual exclusion in a distributed system
+==========================================================================
+
+Implemented in ruby with threads and method calls. 
+
+
+TODO:
+* translate to english
+* add testing script
+
+
